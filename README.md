@@ -1,17 +1,22 @@
-# Windows_Utilities
+# Windows Utilities
 Windows Utilities with DOM Events using HTML,CSS and DOM
 
-Used:
+**Used:**
 
+**HTML**
 HTML5 form elements
 Table
 HTMLTableElements Interface
+
+**CSS**
 CSS
 Animations
 Bootstrap
 
-# Windows Utilities:
+**JS**
 setTimeout
 setInterval
 EventListeners
 LocalStorage
+DOM
+Objects
